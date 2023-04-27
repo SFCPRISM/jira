@@ -1,0 +1,19 @@
+.bodybg{
+    background: #D2EDFD;
+    /* width: 100%;
+    height: 790px; */
+  }
+
+.cardw{
+    width: 20%;
+}
+.col-5.hicon img {
+    padding: 40px 8px 0px 0px;
+}
+.col-7.hicon {
+    padding: 40px 0px 0 0;
+}
+.bicon{
+    padding: 40px 0px 0 0;
+
+}
